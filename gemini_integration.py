@@ -2,7 +2,7 @@ import time
 import json
 import os
 import google.generativeai as genai
-genai.configure(api_key="AIzaSyCmYCpSv-0G1oaEuTcO8cLy91JfmB3AjA0")
+genai.configure(api_key="")
 NEET_SYLLABUS = {
     "Physics": [
         "Physics and Measurement", "Kinematics", "Laws of Motion", "Work, Energy and Power",
